@@ -1,26 +1,26 @@
-Eco Vitae 
+Eco Vitae Quiz Game - INSTRUCTIONS
 =================================
-Eco Vitae is an android quiz application focused on environmental education. 
-The app presents users with a series of questions about eco-friendly practices and environmental
-knowledge, aiming to raise awareness and educate users in a fun and interactive way. 
-The quiz implements some game elements throught the use of a porgress bar, level up system and
+Eco Vitae is an android quiz application focused on environmental sustainability education. 
+The app presents users with a series of questions about eco-friendly sustainable practices and environmental
+knowledge. The app is an educational gamified concept project, aiming to raise awareness and educate users in a fun and interactive way. 
+The quiz implements game elements throught the use of a porgress bar, level up system and
 and the chance of a reward at the end.
 
-features
+Features
 ----------------------------------
-Sign-up and login: the user will be asked to sign up and login, data stored in firebase
+Sign-up and login: The user will be asked to sign up and login (data stored securely in Firebase)
 
-Interactive Quiz: Engaging multiple-choice questions about the environment.
+Interactive Quiz: 12 engaging multiple-choice questions about a sustainable environment.
 
-Progress Tracking: Tracks user progress through different levels - Eco Novice, Eco Apprentice, and Eco Master.
+Progress Tracking (Level Up): Tracks user's progress through 3 levels - Eco Novice, Eco Apprentice, and Eco Master.
 
-Prize Draws: Opportunity to enter prize draws upon achieving Eco Master status. data stored in a realtime data base
+Prize Draws: Opportunity to enter prize draws upon achieving Eco Master status 12 of 12 questions correctly answered. (data stored in a realtime data base)
 
 Installation
 ----------------------
 To install the Eco Quiz Game on your Android device, follow these steps:
 
-1.Download the EcoQuizGame.apk file from the provided link.
+1.Download the EcoQuizGame, (apk file) from the provided link.
 
 2.On your device, enable installation from unknown sources through Settings > Security > Unknown Sources.
 
@@ -30,13 +30,17 @@ To install the Eco Quiz Game on your Android device, follow these steps:
 
 How to play
 ---------------
-Start the game and answer multiple-choice questions.
+Start the game and answer 12 multiple-choice questions.
 
-Each correct answer earns points contributing to your progress level.
+Each correct answer earns 1 point contributing to your progress level.
 
-Reach the Eco Master level to unlock the prize draw entry.
+Reach the "Eco Master" level to unlock the prize draw entry by reaching maximum score of 12.
 
-Build with
+Click "enter Draw" to be automatically entered into a prize draw.
+
+Click "Exit" to close the app
+
+Built with
 --------------
 Android Studio: Primary development platform.
 
@@ -44,4 +48,4 @@ Firebase: Backend for user authentication and data storage.
 
 Kotlin: Main programming language.
 
-
+Design Team: TechTus 11
